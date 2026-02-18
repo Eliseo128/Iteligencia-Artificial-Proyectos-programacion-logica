@@ -1,0 +1,2 @@
+### n1
+genera la redacción de 60 problemas diferentes y numerados del 1 al 60, te muestro un ejemplo que utiliza ciclo "for" para mostrar información de salida, nivel básico, a continuación el ejemplo: En una fábrica de botellas, una máquina produce 10 botellas por hora. Se desea simular la producción durante una jornada de 8 horas, mostrando cuántas botellas se producen en cada hora y el total acumulado hasta ese momento.
